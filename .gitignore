@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+npm-debug.log*
+
+# 本地工具链产物（不属于应用代码）
+.workbuddy
+.workbuddy-ai
+.wbapp_*.genie
